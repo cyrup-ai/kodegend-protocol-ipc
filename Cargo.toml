@@ -1,6 +1,6 @@
 [package]
 name = "kodegend_protocol_ipc"
-version = "0.10.3"
+version = "0.10.4"
 edition = "2024"
 description = "Wire protocol types for kodegend IPC"
 authors = ["KODEGEN.ᴀɪ"]
